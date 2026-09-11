@@ -11,7 +11,7 @@ body {
     background-color:aqua;
 }
 
-body > div {
+.container {
     margin:2rem;
     padding:3rem;
     background-color:blue;
