@@ -16,6 +16,10 @@ body > div {
     padding:3rem;
     background-color:blue;
     border: 4px red solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 50vh;
 }
 
 h1 {
