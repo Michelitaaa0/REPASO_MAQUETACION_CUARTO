@@ -16,3 +16,11 @@ padel-> azul
 para hacer un comentario de codigo -> CTRL+ç
 
 Para ajuste de linea -> ALT+Z o en View>>Word Wrap
+
+TAREA RAPIDA DE CLASE: 
+-Cambiar color de h1 y h2 ( diferentes colores ).
+-Centrar H1 y H2 en el eje vertical.
+-Añadir al <div> una clase "container" y seleccionarla desde el CSS.
+-Centrar el div con clase container en el eje vertical y horizontal.
+
+**cada uno de estos puntos es un commit!
