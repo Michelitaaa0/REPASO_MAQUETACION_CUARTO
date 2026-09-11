@@ -9,6 +9,10 @@ font-family:'Courier New', Courier, monospace;
 
 body {
     background-color:aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 .container {
