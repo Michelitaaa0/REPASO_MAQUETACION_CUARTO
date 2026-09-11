@@ -1,3 +1,19 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family:'Courier New', Courier, monospace;
+}
+
+/*este selector universal* selecciona todos los elementos del HTML*/
+
 body {
     background-color:aqua;
+}
+
+body > div {
+    margin:2rem;
+    padding:3rem;
+    background-color:blue;
+    border: 4px red solid;
 }

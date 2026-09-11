@@ -12,3 +12,7 @@ Abrir DevTools -> click derecho inspeccionar o F12
 
 margin -> naranja
 padel-> azul
+
+para hacer un comentario de codigo -> CTRL+ç
+
+Para ajuste de linea -> ALT+Z o en View>>Word Wrap
