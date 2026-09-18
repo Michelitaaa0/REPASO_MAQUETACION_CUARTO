@@ -24,3 +24,23 @@ TAREA RAPIDA DE CLASE:
 -Centrar el div con clase container en el eje vertical y horizontal.
 
 **cada uno de estos puntos es un commit!
+
+selectores de css:
+orden de prioridad*
+
+ID >> CLASS >> TAG >> *
+
+ID -> #nombreID
+CLASS -> nombre-class (.card-titlle, .card-text) 
+TAG -> h1, h2, div
+
+medidas de css:
+pixeles -> px -> medida absoluta
+porcentajes -> % -> media relativa (al tamaño del contenedor)
+
+relativas al viewport -> vw, vh -> medida relativa para el tamaño de pantalla
+
+FLEXBOX:
+Display: flex; -> al contenedor o padre flex
+justify-content: -valor-; -> eje horizontal
+align-items: -valor-; -> vertical
